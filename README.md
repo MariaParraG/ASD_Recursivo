@@ -1,15 +1,11 @@
 # Análisis Sintáctico Descendente (ASD)
 ### Conjuntos de PRIMEROS, SIGUIENTES y PREDICCIÓN
 
-**Asignatura:** Lenguajes de Programación — Procesadores de Lenguaje  
-**Universidad:** Sergio Arboleda  
-**Tema:** Análisis Sintáctico Descendente Predictivo
-
 ---
 
 ## Descripción
 
-Este proyecto implementa en Python los tres algoritmos fundamentales del Análisis Sintáctico Descendente Predictivo:
+Este trabajo implementa en Python los tres algoritmos fundamentales del Análisis Sintáctico Descendente Predictivo:
 
 - **PRIMEROS (FIRST):** conjunto de terminales con los que puede comenzar una cadena derivada desde un no terminal.
 - **SIGUIENTES (FOLLOW):** conjunto de terminales que pueden aparecer inmediatamente después de un no terminal en alguna forma sentencial.
